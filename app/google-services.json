@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164163636102",
+    "project_id": "childfinder-4a1a7",
+    "storage_bucket": "childfinder-4a1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164163636102:android:e0d1d195e7f3ddd445ba07",
+        "android_client_info": {
+          "package_name": "com.example.childfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164163636102-13p3r2qs0e0lh5alqn8aooi9dfe1cnns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfYHQHw8UNRPL4K1mX2sydhjLhqpkVSUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164163636102-13p3r2qs0e0lh5alqn8aooi9dfe1cnns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

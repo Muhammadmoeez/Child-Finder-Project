@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ChildFinder</string>
+    <string name="my_app_name">Child Finder</string>
+
+    <string name="map">AIzaSyDJgClypQYDXz38R_g-csXwyk9M-7dUHv8</string>
+
+
+    <string name="parentName">Parent Name</string>
+    <string name="parentEmail">Parent Email</string>
+    <string name="parentPassword">Parent Password</string>
+    <string name="parentConfirmPassword">Confirm Password</string>
+    <string name="parentPhone">Phone</string>
+    <string name="signUp">SignUp</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string-array name="role">
+
+        <item>Select</item>
+        <item>Parent</item>
+        <item>Child</item>
+
+    </string-array>
+
+    <string name="login">LogIn</string>
+
+
+    <string name="addChild">ADD Child</string>
+    <string name="childName">Child Name</string>
+    <string name="childEmail">Child Email</string>
+    <string name="childPassword">Child Password</string>
+    <string name="childConfirmPassword">Confirm Password</string>
+    <string name="childPhone">Child Phone</string>
+
+
+</resources>

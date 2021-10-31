@@ -1,0 +1,2 @@
+rootProject.name = "ChildFinder"
+include ':app'
